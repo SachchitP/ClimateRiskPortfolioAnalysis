@@ -6,3 +6,41 @@ Models include
 - Temperature Graphing 
 - Stock Price Prediction 
 - Portfolio Analysis Models
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+Thanks to analyticsVidhya, Kaggle Earth Surface Temperature Data and Python for Finance for guidance 
